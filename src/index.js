@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+
+/* --------------------------------------------------------------------------------------------------
+ * !!! In Development Mode, React renders components twice in default for developers to find bugs !!!
+ * -------------------------------------------------------------------------------------------------- */
 ReactDOM.render(
   <React.StrictMode>
     <App />

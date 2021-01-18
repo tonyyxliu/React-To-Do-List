@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+/* --------------------
+ * !!! My CSS Style !!!
+ * -------------------- */
+div {
+  margin: 10px 10px 10px 10px;
+}
+.white-space-enable {
+  white-space: pre;
+}
+.button {
+  margin-left: 10px;
+  margin-right: 10px;
+}
